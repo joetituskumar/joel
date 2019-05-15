@@ -1,4 +1,5 @@
 n=input()
+print(len(n))
 li=["a","e","i","o","u","A","E","I","O","U"]
 li1=[]
 for i in range(0,len(n)):
